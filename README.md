@@ -1,4 +1,34 @@
 # swatchha-bharat
+  # Hello
+  ## World
+  ##### Hi  
+  
+  - This is bullet.
+  * This is number.
+  
+  1. list item1
+  2. list item2
+ 
+ **bold** __BOLD__
+ *italics*
+ 
+ [GitHub](https://github/com)
+ 
+ :boom:
+ 
+ ![CITY HD](https://images.pexels.com/photos/5443/city-lights-night-rooftop.jpg?auto=compress&cs=tinysrgb&h=1024&w=720)
+ 
+ >This is a sentence
+ 
+ @SiddhantDorman
+ 
+ [x] Open github.com
+ 
+ [x] Write something in README file
+ 
+ [ ]Get an award for that
+ 
+ ```javascript
 'use strict';
 
 var Alexa = require('alexa-sdk');
@@ -118,3 +148,12 @@ var AskQuestion = function(attributes) {
     alexa.registerHandlers(handlers);
     alexa.execute();
   };
+ ```
+ 
+
+ 
+ Programming Language | Status
+ ---------------------|--------
+ C | Completed
+ MATLAB | Completed
+ C++  | Not Started
